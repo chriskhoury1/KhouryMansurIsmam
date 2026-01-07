@@ -8,6 +8,9 @@ This repository contains the project work for the **Software Engineering 2 (SWE-
 📄 **RASD Document (Google Docs):**  
 👉 https://docs.google.com/document/d/1WMgBQjGh3EUauN9Yf6fBbcb6bA1msEoqpp7FbxQ-UXE/edit?usp=sharing
 
+
+📄 **DD Document (Google Docs):**
+👉 [https://docs.google.com/document/d/1WMgBQjGh3EUauN9Yf6fBbcb6bA1msEoqpp7FbxQ-UXE/edit?usp=sharing](https://docs.google.com/document/d/1w99NTNTa6wRLqAKABpNOrkcPwNo9v8WdwV01Dslxfn0/edit?tab=t.0)
 ---
 
 ### Course Information
@@ -19,3 +22,4 @@ This repository contains the project work for the **Software Engineering 2 (SWE-
 ### Notes
 - The RASD document is maintained externally on Google Docs for collaboration.
 - This repository serves as the official project workspace for the SWE-2 course.
+
